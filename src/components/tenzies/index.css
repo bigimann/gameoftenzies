@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .tenzies {
   background-color: #0b2434;
   height: 100vh;
@@ -60,6 +65,7 @@
   font-weight: 400;
   margin-top: 0;
   text-align: center;
+  width: 70%;
 }
 
 .sr-only {
